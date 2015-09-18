@@ -1,6 +1,7 @@
 angular.module('liveEventsThroughPhotosApp', [
   'ngSanitize',
-  'ui.router'
+  'ui.router',
+  'uiGmapgoogle-maps'
 ])
   .config(function ($stateProvider, $urlRouterProvider, $locationProvider) {
     $urlRouterProvider
