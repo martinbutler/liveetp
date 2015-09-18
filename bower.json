@@ -1,0 +1,11 @@
+{
+  "name": "live-events-through-photos",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "~1.4.5",
+    "angular-sanitize": "~1.4.5",
+    "angular-ui-router": "~0.2.15",
+    "jquery": "~2.1.4"
+  },
+  "devDependencies": {}
+}
